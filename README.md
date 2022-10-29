@@ -2,7 +2,7 @@
 
 This repository expands on the code found in [the following repo](https://github.com/mowinslow2/crdb-sso-okta-go).
 
-For more details on the code, OKTA setup, and CockroachDB refer to [this blog](https://morgans-blog.deno.dev/sso_dedicated_okta_golang)
+For more details on the code, OKTA setup, and CockroachDB refer to [this blog](https://morgans-blog.deno.dev/crdb-sso-connection-pool-refresh)
 
 ## Variables Required
 
